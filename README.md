@@ -28,7 +28,7 @@ Hello! I’m María Elisa Honorato, a software developer and designer committed 
 
 ## 📂 Professional Experience  
 
-- **Development Engineer, Obralink (2023-2024):**  
+- **Development Engineer, Obralink (2023-2025):**  
   - Designed and implemented complete microservices for both Backend and Frontend development.  
   - Contributed to scalable, efficient, and visually appealing solutions.  
 
