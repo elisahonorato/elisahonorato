@@ -26,13 +26,6 @@ Hello! I’m María Elisa Honorato, a software developer and designer committed 
 ### Data Visualization and 3D Modeling  
 - Processing, Charts.js, Three.js, Blender, Cinema 4D  
 
-## 🧩 Highlighted Projects  
-
-- **[Liho](https://elisahonorato.github.io/liho/about):** Interactive application developed using React, Django, and Three.js.  
-- **[Colorful Corals](https://github.com/elisahonorato):** Visual data project built with Vue.js and Express.js.  
-- **[Designed by Women](https://disenadopormujeres.cl/):** Web platform built with React, showcasing women-led design initiatives.  
-- **[Landing Page Vinko](https://github.com/elisahonorato):** Dynamic and visually appealing webpage created using JavaScript and Bootstrap.  
-
 ## 📂 Professional Experience  
 
 - **Development Engineer, Obralink (2023-2024):**  
