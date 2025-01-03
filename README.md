@@ -18,7 +18,7 @@ Hello! I’m María Elisa Honorato, a software developer and designer committed 
 - Python (Advanced), JavaScript/TypeScript (Advanced), Ruby (Intermediate), PHP and Java (Basic)  
 
 ### Frameworks  
-- Vue.js, React, Django, Express.js, Rails, Next.js  
+- Vue.js, React, Django, Express.js, Rails, Next.js, Flutter, ReactNative
 
 ### DevOps and Networking  
 - AWS (EC2, S3), Docker, Nginx, Apache, HTTPS, SSH  
