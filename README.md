@@ -44,7 +44,7 @@ Hello! I’m María Elisa Honorato, a software developer and designer committed 
   - Advanced Programming (2023), Facultad de Ingeniería  
   - Introduction to Typography (2023), Escuela de Diseño  
   - Creative Programming for Design (2021-2022), Escuela de Diseño  
-  - Digital Design and Manufacturing CAD/CAM (2021-2022), Facultad de Ingeniería  
+  - Digital Design and Manufacturing CAD/CAM (2021-2022), Escuela de Diseño
 
 ## 🌐 Find Me Online  
 
