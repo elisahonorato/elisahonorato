@@ -50,4 +50,3 @@ Hello! I’m María Elisa Honorato, a software developer and designer committed 
 
 - 🌍 [Portfolio](https://elisahonoratolira.cl/)  
 - 💼 [GitHub](https://github.com/elisahonorato)  
-- 📬 elisahonoratolira@uc.cl  
